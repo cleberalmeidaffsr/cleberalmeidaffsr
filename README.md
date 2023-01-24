@@ -1,7 +1,8 @@
 <h1 align="center">Oi! Sou Cleber de Almeida</h1>
 <h3 align="center">Estudante de Full-Stack no Brasil!</h3>
 
-[![Cleber GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberalmeidaffsr&show_icons=true&theme=onedark&card_width=477px&line_height=20)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberalmeidaffsr&layout=compact&theme=onedark&card_width=477px&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Cleber GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberalmeidaffsr&show_icons=true&theme=onedark&card_width=477px&line_height=20)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberalmeidaffsr&layout=compact&theme=onedark&card_width=477px&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
   
 ## My Skills!
 

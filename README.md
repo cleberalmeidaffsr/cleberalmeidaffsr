@@ -3,7 +3,7 @@
 [![Cleber GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberalmeidaffsr&show_icons=true&theme=onedark&card_width=350px&line_height=20)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberalmeidaffsr&layout=compact&theme=onedark&card_width=350px&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
   
-## My Skills!
+## Minhas Habilidades!
 
 <img height="40px" width="40px" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />                            <img height="40px" width="40px" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                 <img height="40px" width="40px" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img height="40px" width="40px" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
@@ -11,7 +11,7 @@
 <img height="40px" width="40px" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
  
-## Contats
+## Contatos
 
 <div>
   <a href = "mailto:cleberdealmeida23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
